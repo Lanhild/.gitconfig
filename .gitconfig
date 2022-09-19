@@ -1,0 +1,6 @@
+[user]
+	email = archlan@protonmail.com 
+	name = Lanhild
+	signingkey = 5F765E0E531F5B53
+[init]
+	defaultBranch = main
